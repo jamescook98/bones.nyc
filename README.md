@@ -1,5 +1,7 @@
 # Bones
 
+Deployed at https://bones-08060.herokuapp.com/
+
 This project is meant to serve as a consolidated event board where fans of jazz and other experimental musics can find information on performances taking place in New York City. Users are able to filter events by date and by artist; they are also able to create their own accounts and bookmark these events.
 
 ![AppScreenshot](./client/src/assets/app_screenshot.png)
